@@ -69,9 +69,3 @@ The project generates:
 * Sector allocation constraints
 * Transaction cost modelling
 * Interactive dashboards using Plotly or Dash
-
-## Author
-
-Ananya Maram
-
-IB Diploma Student | Aspiring Quantitative Analyst | Python & Quantitative Finance Projects
