@@ -49,22 +49,6 @@ The project generates:
 * Maximum Sharpe Portfolio Allocation
 * Performance Comparison Tables
 
-## Project Structure
-
-```text
-portfolio-optimization/
-│
-├── portfolio_optimization.py
-├── README.md
-└── project5-optimization_charts/
-    ├── covariance_heatmap.png
-    ├── efficient_frontier.png
-    ├── constrained_frontier.png
-    ├── max_sharpe_weights.png
-    ├── optimal_weights.csv
-    └── performance_comparison.csv
-```
-
 ## Key Concepts
 
 * Portfolio Expected Return
